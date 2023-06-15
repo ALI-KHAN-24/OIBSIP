@@ -17,5 +17,5 @@ The creation and designing is solely based upon HTML,CSS and Javascript.Also you
 #Task-3
 SUMMERATOR
 As a part of my Internship on  "Web Development" by OASIS INFOBYTE . I have completed level 1,task-3 of the internship.
-I have created Temperature conversiion calculator called as "SUMMERATOR" 
+I have created Temperature conversion calculator called as "SUMMERATOR" 
 The creation and designing is solely based upon HTML,CSS and Javascript.You can covert temperature from farenheit to celcius and vice versa. 
